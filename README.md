@@ -6,3 +6,4 @@ Make only for testing purposes and then ment to be used in the ranked mode
 * Chams (changing player model texture color to be bright to stick out)
 * TriggerBot (will automatically shoot when your crosshair is on a valid enemeny entity)
 * Radar Hack (enemies will always be on the radar even if you shouldn't be able to see them)
+![alt text](https://github.com/ksmxx/ExternalCSGOcheats/blob/main/pics/Screenshot1.png)
