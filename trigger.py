@@ -5,7 +5,6 @@ from offset import *
 def trigger():
     pm = pymem.Pymem("csgo.exe")
     client = pymem.process.module_from_name(pm.process_handle, "client.dll").lpBaseOfDll
-
     while True:
         localPlayer = pm.read_int(client + dwLocalPlayer)
         crosshairID = pm.read_int(localPlayer + m_iCrosshairId)
